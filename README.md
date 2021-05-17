@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is simple Face Recognition react app build with react js as front-end and express.js a framework of Node js as backend [here](https://github.com/rajbir21-droid/FaceRecognitionAPI) is the link to the backend code and PostgresSQL is used as the database.It is deployed using [heroku](https://signup.heroku.com/).If you want
+* This is simple Face Recognition react app build with react js as front-end and express.js a framework of Node js as backend [here](https://github.com/rajbir21-droid/FaceRecognitionAPI) is the link to the backend code and PostgresSQL is used as the database.It is deployed using [heroku](https://signup.heroku.com/).If you want
 to check out my website here is the [link](https://rajbir-face-app.herokuapp.com/)....
 `Happy coding`.
 
